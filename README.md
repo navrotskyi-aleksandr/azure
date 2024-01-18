@@ -1,13 +1,12 @@
 ---
-
 page_type: sample
 languages:
   - javascript
   - typescript
 products:
   - azure functions
-description: 'Apps that can be used with as a starting point for some MS Learn Modules.'
-urlFragment: 'https://github.com/MicrosoftDocs/mslearn-staticwebapp'
+description: "Apps that can be used with as a starting point for some MS Learn Modules."
+urlFragment: "https://github.com/MicrosoftDocs/mslearn-staticwebapp"
 ---
 
 # Official Microsoft Sample
@@ -29,6 +28,7 @@ The shopping theme is used throughout the app.
 
 ## Contents
 
+!!!
 The apps written in the following JavaScript frameworks/libraries:
 
 | folder          | Description                                                                                                 |
@@ -86,7 +86,7 @@ The apps written in the following JavaScript frameworks/libraries:
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+the rights to use your contribution. For details, visit <https://cla.opensource.microsoft.com>.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
 a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
